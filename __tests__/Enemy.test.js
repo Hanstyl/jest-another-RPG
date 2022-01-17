@@ -1,5 +1,5 @@
-const Enemy = require('../../../Downloads/10.3/lib/Enemy.js');
-const Potion = require('../../../Downloads/10.3/lib/Potion.js');
+const Enemy = require('../lib/Enemy.js');
+const Potion = require('../lib/Potion.js');
 
 jest.mock('../lib/Potion.js');
 
